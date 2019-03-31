@@ -1,8 +1,8 @@
 ---
-layout: contact
-title: Contact
-permalink: /contact
-section: contact
+layout: default
+title: Organizations
+permalink: /organizations
+section: organizations
 intro_paragraph: |-
 
   The contact form on this page uses
