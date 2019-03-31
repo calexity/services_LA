@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Our Demands
-permalink: /about
-section: about
+permalink: /our-demands
+section: our demands
 intro_paragraph: >-
   The City of Los Angeles, in response to community organizing, demands from
   unhoused communities, County Public Health reports, and other input, has
@@ -20,8 +20,8 @@ All endorsers acknowledge that housing is the ultimate solution to homelessness,
 
 ### 2) Ensure all street and sidewalk cleaning is scheduled, regular, and well publicized.
 
-* Eliminate the complaint-driven model in all forms.   All street and sidewalk cleaning must occur as publicly scheduled. 
-     
+* Eliminate the complaint-driven model in all forms.   All street and sidewalk cleaning must occur as publicly scheduled.
+
 * Cleaning will be scheduled on a weekly, bi-weekly, or monthly timeframe, with a 2 to 4 hour window of time, similar to other City street cleaning services.
 
 * Continue to post notices at and near each site prior to cleaning services, either 48 or 72 hours in advance.
@@ -33,23 +33,23 @@ All endorsers acknowledge that housing is the ultimate solution to homelessness,
 ### 3) Ensure appropriate resources are in place in advance of and during all scheduled cleaning
 
 * Dumpsters/trash bins, individual trash bags, sharps disposal containers, and other health resources will be provided at the site of scheduled cleaning, at least 24 hours before the cleanup begins, so individuals can sort and throw trash away.
- 
+
 * Outreach workers will be present on site the day before the clean-up and also thirty minutes before the cleanup begins to provide additional notice of cleanings.  Outreach workers or other community members will be allowed at the clean up sites to help identify and assist individuals who need accommodations to move their belongings.
 
-* City officials will ensure that the provision of appropriate resources extends to any informal shelter needs in extreme weather such as rain or heat, and will provide accommodations during street cleaning that occurs in extreme weather conditions. 
- 
+* City officials will ensure that the provision of appropriate resources extends to any informal shelter needs in extreme weather such as rain or heat, and will provide accommodations during street cleaning that occurs in extreme weather conditions.
+
 * Until such time restrooms are readily available in all communities, ensure that unhoused residents can utilize the City workers’ porta-potty currently on site during street cleaning.   
 
 ### 4) Ensure an accountability system for City street and sidewalk cleaning procedures, including a complaint/grievance process and a response to any violations documented within three days.
 
-All of the changes outlined can and must be implemented immediately, as they require no additional funding, no legislative changes, and are within the direct oversight of the Mayor of Los Angeles.  Additionally, funding and policy change are required to fully ensure a health-based approach to street cleaning and sanitation services in homeless communities.  At a minimum, these are outlined below. 
+All of the changes outlined can and must be implemented immediately, as they require no additional funding, no legislative changes, and are within the direct oversight of the Mayor of Los Angeles.  Additionally, funding and policy change are required to fully ensure a health-based approach to street cleaning and sanitation services in homeless communities.  At a minimum, these are outlined below.
 
 ## We call on the Mayor of the City of Los Angeles to include in the 2019 budget (including any existing or planned HEAP funds):
 
 ### 1) Plans and funding to increase trash services
 
 * Ensure that areas with significant homeless communities receive daily trash service.
-  
+
 * Ensure that the recent increase in trash cans and collection in Skid Row be maintained or expanded.   
 
 ### 2) Improve public health infrastructure beyond street cleaning efforts
