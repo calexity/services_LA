@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Organizations
 permalink: /organizations
 section: organizations
