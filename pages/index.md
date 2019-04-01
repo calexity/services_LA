@@ -10,3 +10,5 @@ intro_paragraph: >-
   city.**
 ---
 They continue to die at an alarming rate-- 917 in 2018, up from 831 in 2017-- many due to treatable health conditions. Our unhoused neighbors need better public health infrastructure and services, not sweeps and criminalization.
+
+****[**Read our demands**](/our-demands)****
