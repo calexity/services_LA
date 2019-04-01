@@ -9,6 +9,6 @@ intro_paragraph: >-
   hopelessness. **They deserve better notice and better treatment from the
   city.**
 ---
-They continue to die at an alarming rate-- 917 in 2018, up from 831 in 2017-- many due to treatable health conditions. Our unhoused neighbors need better public health infrastructure and services, not sweeps and criminalization.
+People forced to live on the streets continue to die at an alarming rate -- 917 in 2018, up from 831 in 2017 -- many due to treatable health conditions. Our unhoused neighbors need better public health infrastructure and services, not sweeps and criminalization.
 
 [**Read our demands->**](/our-demands)
