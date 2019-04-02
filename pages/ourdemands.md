@@ -1,6 +1,5 @@
-
 ---
-layout: home
+layout: default
 title: Our Demands
 permalink: /
 section: ourdemands
