@@ -1,8 +1,8 @@
 # specify main menu items here
 
-- text: Home
-  url: /
 - text: Our Demands
+  url: /
+- text: Our Demands2
   url: /our-demands
 - text: Organizations
   url: /organizations
