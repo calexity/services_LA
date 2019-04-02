@@ -5,16 +5,28 @@ permalink: /organizations
 section: organizations
 intro_paragraph: ''
 ---
-DSA Los Angeles
+Black Lives Matter Los Angeles
+
+Democratic Socialists of America - Los Angeles
 
 Ground Game LA
 
-Homeless Healthcare
+Homeless Health Care Los Angeles
 
-LA Tenants Union
+KTown For All
 
-Shelter for All KTown
+National Lawyers Guild Los Angeles
+
+Los Angeles Community Action Network
 
 SELAH Neighborhood Homeless Coalition
 
-Street Watch LA
+San Pedro Neighbors for Peace and Justice
+
+Stop LAPD Spying Coalition
+
+Venice Community Housing
+
+White People 4 Black Lives
+
+Women Organizing Resources Knowledge and Services (WORKS)
